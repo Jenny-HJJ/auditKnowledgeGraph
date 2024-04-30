@@ -12,7 +12,8 @@ description： 对关系的解释说明
 
 layer：审计知识库共5层，分别为本体层（1）、实例层（2.1、2.2）、文档层（3），关键词层（4）和案例层（5）
 
-extracted_from  ==1  基于结构化或半结构化的规则抽取，可信度高
+extracted_from  ==1  基于结构化或半结构化的规则抽取，可信度高;
+
 extracted_from  ==2 基于NER获得的审计命名实体及定义的关系类型抽取而得
 
 | e1                                                           | r                 | e2                                                           | description       | layer | extracted_from |
