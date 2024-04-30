@@ -69,8 +69,8 @@
 | 本体层   |           |       | 875         | 899          |subconcept_of                                    |               |
 | 实例层    | 实例         | 58478       | 62908        | 2                                       | instance_of, item_of        |
 |          | 其他属性 | 152951       | 116459      | 1237         | published_department_of, published_date |                             |
-| 关键词层 |          |              | 9040        | 21906        | 1                                       | keyowrd_of                  |
-| 案例层   |          |              | 2543        | 3811         | 10                                      | law_of_audit, item_of_audit |
+| 关键词层 |                     | 9040        | 21906        | 1                                       | keyowrd_of                  |
+| 案例层   |                      | 2543        | 3811         | 10                                      | law_of_audit, item_of_audit |
 | 文档层   | 短文档   | 20165        | 14870       | 2            |                                         | definition_of, item_of_doc  |
 |          | 长文档   | ——           | 33365       |              |                                         |                             |
 | 合计     |          | 204339       | 220853      | 19*          | instance_of, item_of_audit              |                             |
