@@ -14,7 +14,7 @@
 
 
 
-![img]((https://github.com/Jenny-HJJ/auditKnowledgeGraph/blob/main/figures/%E5%9B%BE%E7%89%872.png)
+![img](file:///https://github.com/Jenny-HJJ/auditKnowledgeGraph/blob/main/figures/%E5%9B%BE%E7%89%872.png)
 
 ​                                                  图2    基于**信息抽取的审计知识库构建路线图
 
