@@ -17,7 +17,7 @@ pytorch-crf==0.7.2
 
 ---models/
 	---bioTextLabeling.py 使用BIO格式标注原始sentence
-    ---labelSenClean.py  对标注的句子进行过滤和筛选，获得最终NER训练语料
+        ---labelSenClean.py  对标注的句子进行过滤和筛选，获得最终NER训练语料
 ---models/—BERT-BILSTM-CRF-main
     --checkpoint：模型和配置保存位置
     --model_hub：预训练模型  （去huggingface下载）
