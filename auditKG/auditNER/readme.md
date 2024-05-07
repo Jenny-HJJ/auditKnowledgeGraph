@@ -47,7 +47,7 @@ pytorch-crf==0.7.2
 
 ```python
 1、去https://huggingface.co/hfl/chinese-bert-wwm-ext/tree/main下载相关文件到chinese-bert-wwm-ext下。
-or  去 
+or  去 百度网盘下载我们继续预训练的 AuBert ： 链接: https://pan.baidu.com/s/1FPF3D286eZ7zHYWe0hLI9w 提取码: hij1  
 2、在process.py里面定义将ori_data里面的数据处理得到ner_data下的数据，ner_data下数据样本是这样的：
 --labels.txt
 --train.txt/dev.txt
@@ -68,7 +68,8 @@ or  去
 4、在main.py里面修改data_name为数据集名称。需要注意的是名称和data下的数据集名称保持一致。最后运行：python main.py
 
 5、在predict.py修改data_name并加入预测数据，最后运行：python predict.py
-
+无需训练，可直接下载训练好的AuditNER： 链接: https://pan.baidu.com/s/1Cf4-f2xm-g57Pj_xNRsrKw 提取码: eg3f
+放至 auditNER/models/BERT-BILSTM-CRF-main/checkpoint/ 文件夹下
 example of predict result
 
 文本>>>>>： 违规向拖欠土地出让金的用地单位发放国有土地使用证定性依据：(l)《国务院关于加强国有土地资产管理的通知》
