@@ -47,6 +47,7 @@ pytorch-crf==0.7.2
 
 ```python
 1、去https://huggingface.co/hfl/chinese-bert-wwm-ext/tree/main下载相关文件到chinese-bert-wwm-ext下。
+or  去 
 2、在process.py里面定义将ori_data里面的数据处理得到ner_data下的数据，ner_data下数据样本是这样的：
 --labels.txt
 --train.txt/dev.txt
