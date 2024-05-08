@@ -14,7 +14,7 @@ layer：审计知识库共5层，分别为本体层（1）、实例层（2.1、2
 
 extracted_from  ==1  基于结构化或半结构化的规则抽取，可信度高; 文件存放在 rdf_all.csv 中
 
-extracted_from  ==2 基于NER获得的审计命名实体及定义的关系类型抽取而得  文件存放在  extracted_NER_RDF.csv 中
+extracted_from  ==2 基于NER获得的审计命名实体及定义的关系类型抽取而得;  文件存放在  extracted_NER_RDF.csv 中
  
 
 | e1                                                           | r                 | e2                                                           | description       | layer | extracted_from |
